@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /project/
+permalink: /project/yelp
 title: "Projects"
 ---
 
-- [Yelp Data Analysis](https://david-data-scientist.github.io/Project/)
+- [Yelp Data Analysis](https://david-data-scientist.github.io/project/yelp)
