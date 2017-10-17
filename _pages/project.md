@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /project/yelp
+permalink: /project
 title: "Projects"
 ---
 
