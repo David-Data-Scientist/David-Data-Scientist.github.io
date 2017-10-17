@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Projects
+permalink: /Projects/
 title: "Projects"
 ---
 
