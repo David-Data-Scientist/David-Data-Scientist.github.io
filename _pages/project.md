@@ -5,4 +5,4 @@ permalink: /project/
 title: "Projects"
 ---
 
-- [Yelp Data Analysis](https://david-data-scientist.github.io/project/yelp)
+- [Yelp Data Analysis](https://david-data-scientist.github.io/yelp)
