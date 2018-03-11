@@ -27,13 +27,13 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>David-Data-Scientist.github.io/2017-03-21-self-introduction.md at master · David-Data-Scientist/David-Data-Scientist.github.io</title>
+  <title>DavidHuangUCD.github.io/2017-03-21-self-introduction.md at master · DavidHuangUCD/DavidHuangUCD.github.io</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars3.githubusercontent.com/u/21120969?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="David-Data-Scientist/David-Data-Scientist.github.io" property="og:title" /><meta content="https://github.com/David-Data-Scientist/David-Data-Scientist.github.io" property="og:url" /><meta content="David-Data-Scientist.github.io - :triangular_ruler: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server." property="og:description" />
+    <meta content="https://avatars3.githubusercontent.com/u/21120969?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="DavidHuangUCD/DavidHuangUCD.github.io" property="og:title" /><meta content="https://github.com/DavidHuangUCD/DavidHuangUCD.github.io" property="og:url" /><meta content="DavidHuangUCD.github.io - :triangular_ruler: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjE0MTA5NDYwOjA3ZWExYjQwMTU0NTM3ZDE4ODA2NjZiYzFkYjk0ZWZhOGFjNTg0YTk1OGJiMTEzMWM4NzdlMmJiYzA3YTZjY2M=--71a913756918b8012d1b9682e5e1816bd90f450d">
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="CF8F:3DB2:29F68F1:3F04515:59E5E753" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="21120969" name="octolytics-actor-id" /><meta content="David-Data-Scientist" name="octolytics-actor-login" /><meta content="78b89221a02a410cbf3db6b5cbe515e4c74a25ddc230799bc464ad79442fdafd" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="CF8F:3DB2:29F68F1:3F04515:59E5E753" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="21120969" name="octolytics-actor-id" /><meta content="DavidHuangUCD" name="octolytics-actor-login" /><meta content="78b89221a02a410cbf3db6b5cbe515e4c74a25ddc230799bc464ad79442fdafd" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -60,7 +60,7 @@
   
 
       <meta name="hostname" content="github.com">
-  <meta name="user-login" content="David-Data-Scientist">
+  <meta name="user-login" content="DavidHuangUCD">
 
       <meta name="expected-hostname" content="github.com">
     <meta name="js-proxy-site-detection-payload" content="OWFiYTNlNWNmYzE4MGQ5NDZjYzIzM2JmYzIwNDQ3ZDFlOWQ3MDhjNTk3ZmVmMjU1MGVhYWJjYmZhZTg5MzM0NXx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMi4xMDUuMTIxIiwicmVxdWVzdF9pZCI6IkNGOEY6M0RCMjoyOUY2OEYxOjNGMDQ1MTU6NTlFNUU3NTMiLCJ0aW1lc3RhbXAiOjE1MDgyMzkxODgsImhvc3QiOiJnaXRodWIuY29tIn0=">
@@ -72,15 +72,15 @@
   <meta http-equiv="x-pjax-version" content="abbcff1befacffd742baaf4ae19e19fa">
   
 
-      <link href="https://github.com/David-Data-Scientist/David-Data-Scientist.github.io/commits/master.atom" rel="alternate" title="Recent Commits to David-Data-Scientist.github.io:master" type="application/atom+xml">
+      <link href="https://github.com/DavidHuangUCD/DavidHuangUCD.github.io/commits/master.atom" rel="alternate" title="Recent Commits to DavidHuangUCD.github.io:master" type="application/atom+xml">
 
-  <meta name="description" content="David-Data-Scientist.github.io - :triangular_ruler: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.">
-  <meta name="go-import" content="github.com/David-Data-Scientist/David-Data-Scientist.github.io git https://github.com/David-Data-Scientist/David-Data-Scientist.github.io.git">
+  <meta name="description" content="DavidHuangUCD.github.io - :triangular_ruler: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.">
+  <meta name="go-import" content="github.com/DavidHuangUCD/DavidHuangUCD.github.io git https://github.com/DavidHuangUCD/DavidHuangUCD.github.io.git">
 
-  <meta content="21120969" name="octolytics-dimension-user_id" /><meta content="David-Data-Scientist" name="octolytics-dimension-user_login" /><meta content="85881370" name="octolytics-dimension-repository_id" /><meta content="David-Data-Scientist/David-Data-Scientist.github.io" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="85788054" name="octolytics-dimension-repository_parent_id" /><meta content="RLee12/RLee12.github.io" name="octolytics-dimension-repository_parent_nwo" /><meta content="10267810" name="octolytics-dimension-repository_network_root_id" /><meta content="mmistakes/minimal-mistakes" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <meta content="21120969" name="octolytics-dimension-user_id" /><meta content="DavidHuangUCD" name="octolytics-dimension-user_login" /><meta content="85881370" name="octolytics-dimension-repository_id" /><meta content="DavidHuangUCD/DavidHuangUCD.github.io" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="85788054" name="octolytics-dimension-repository_parent_id" /><meta content="RLee12/RLee12.github.io" name="octolytics-dimension-repository_parent_nwo" /><meta content="10267810" name="octolytics-dimension-repository_network_root_id" /><meta content="mmistakes/minimal-mistakes" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/David-Data-Scientist/David-Data-Scientist.github.io/blob/master/_posts/2017-03-21-self-introduction.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/DavidHuangUCD/DavidHuangUCD.github.io/blob/master/_posts/2017-03-21-self-introduction.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -125,9 +125,9 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/search" class="js-site-search-form" data-scoped-search-url="/David-Data-Scientist/David-Data-Scientist.github.io/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/search" class="js-site-search-form" data-scoped-search-url="/DavidHuangUCD/DavidHuangUCD.github.io/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/master/_posts/2017-03-21-self-introduction.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/master/_posts/2017-03-21-self-introduction.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -214,21 +214,21 @@
       <summary class="HeaderNavlink name mt-1"
         aria-label="View profile and more"
         data-ga-click="Header, show menu, icon:avatar">
-        <img alt="@David-Data-Scientist" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/21120969?s=40&amp;v=4" height="20" width="20">
+        <img alt="@DavidHuangUCD" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/21120969?s=40&amp;v=4" height="20" width="20">
         <span class="dropdown-caret"></span>
       </summary>
 
       <ul class="dropdown-menu dropdown-menu-sw">
         <li class="dropdown-header header-nav-current-user css-truncate">
-          Signed in as <strong class="css-truncate-target">David-Data-Scientist</strong>
+          Signed in as <strong class="css-truncate-target">DavidHuangUCD</strong>
         </li>
 
         <li class="dropdown-divider"></li>
 
-        <li><a class="dropdown-item" href="/David-Data-Scientist" data-ga-click="Header, go to profile, text:your profile">
+        <li><a class="dropdown-item" href="/DavidHuangUCD" data-ga-click="Header, go to profile, text:your profile">
           Your profile
         </a></li>
-        <li><a class="dropdown-item" href="/David-Data-Scientist?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+        <li><a class="dropdown-item" href="/DavidHuangUCD?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
           Your stars
         </a></li>
           <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your Gists</a></li>
@@ -292,7 +292,7 @@
         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eeZF5JAU1w0m/oWcNjzwFMS9DDQzRXuHvyAQ2v4fTJ3qxyeAKaDeG0clCKT83RY8gbj+s2M0mGtCRR5IVkGvvw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="85881370" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/David-Data-Scientist/David-Data-Scientist.github.io/subscription"
+          <a href="/DavidHuangUCD/DavidHuangUCD.github.io/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -305,7 +305,7 @@
             </span>
           </a>
             <a class="social-count js-social-count"
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/watchers"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/watchers"
               aria-label="0 users are watching this repository">
               0
             </a>
@@ -369,32 +369,32 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8f5QwcQWckTIjipiW3gaGQ82M03V/LfjGnK6hXHhvWxKM28Ck6jcE6n1U7kgJgNS+dJDw6tuLKprDoh28oaKqA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8f5QwcQWckTIjipiW3gaGQ82M03V/LfjGnK6hXHhvWxKM28Ck6jcE6n1U7kgJgNS+dJDw6tuLKprDoh28oaKqA==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar David-Data-Scientist/David-Data-Scientist.github.io"
+        aria-label="Unstar this repository" title="Unstar DavidHuangUCD/DavidHuangUCD.github.io"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/David-Data-Scientist/David-Data-Scientist.github.io/stargazers"
+        <a class="social-count js-social-count" href="/DavidHuangUCD/DavidHuangUCD.github.io/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Nz7H69gHh1d78LLQxHeZgol0X7RInJXSxytyPEwqimKXRTe7oUnq7CiuySpGdL9KRPhVgUTweJKkYOOFGT6UMQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Nz7H69gHh1d78LLQxHeZgol0X7RInJXSxytyPEwqimKXRTe7oUnq7CiuySpGdL9KRPhVgUTweJKkYOOFGT6UMQ==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star David-Data-Scientist/David-Data-Scientist.github.io"
+        aria-label="Star this repository" title="Star DavidHuangUCD/DavidHuangUCD.github.io"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/David-Data-Scientist/David-Data-Scientist.github.io/stargazers"
+        <a class="social-count js-social-count" href="/DavidHuangUCD/DavidHuangUCD.github.io/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -404,8 +404,8 @@
 
   <li>
           <a href="#fork-destination-box" class="btn btn-sm btn-with-count"
-              title="Fork your own copy of David-Data-Scientist/David-Data-Scientist.github.io to your account"
-              aria-label="Fork your own copy of David-Data-Scientist/David-Data-Scientist.github.io to your account"
+              title="Fork your own copy of DavidHuangUCD/DavidHuangUCD.github.io to your account"
+              aria-label="Fork your own copy of DavidHuangUCD/DavidHuangUCD.github.io to your account"
               rel="facebox"
               data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
@@ -416,12 +416,12 @@
             <h2 class="facebox-header" data-facebox-id="facebox-header">Where should we fork this repository?</h2>
             <include-fragment src=""
                 class="js-fork-select-fragment fork-select-fragment"
-                data-url="/David-Data-Scientist/David-Data-Scientist.github.io/fork?fragment=1">
+                data-url="/DavidHuangUCD/DavidHuangUCD.github.io/fork?fragment=1">
               <img alt="Loading" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
             </include-fragment>
           </div>
 
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io/network" class="social-count"
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io/network" class="social-count"
        aria-label="5133 users forked this repository">
       5,133
     </a>
@@ -430,9 +430,9 @@
 
         <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a href="/David-Data-Scientist" class="url fn" rel="author">David-Data-Scientist</a></span><!--
+  <span class="author" itemprop="author"><a href="/DavidHuangUCD" class="url fn" rel="author">DavidHuangUCD</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/David-Data-Scientist/David-Data-Scientist.github.io" data-pjax="#js-repo-pjax-container">David-Data-Scientist.github.io</a></strong>
+--><strong itemprop="name"><a href="/DavidHuangUCD/DavidHuangUCD.github.io" data-pjax="#js-repo-pjax-container">DavidHuangUCD.github.io</a></strong>
 
     <span class="fork-flag">
       <span class="text">forked from <a href="/RLee12/RLee12.github.io">RLee12/RLee12.github.io</a></span>
@@ -448,7 +448,7 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /David-Data-Scientist/David-Data-Scientist.github.io" itemprop="url">
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /DavidHuangUCD/DavidHuangUCD.github.io" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
@@ -456,28 +456,28 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /David-Data-Scientist/David-Data-Scientist.github.io/pulls" itemprop="url">
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /DavidHuangUCD/DavidHuangUCD.github.io/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io/projects" class="js-selected-navigation-item reponav-item" data-hotkey="g b" data-selected-links="repo_projects new_repo_project repo_project /David-Data-Scientist/David-Data-Scientist.github.io/projects">
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io/projects" class="js-selected-navigation-item reponav-item" data-hotkey="g b" data-selected-links="repo_projects new_repo_project repo_project /DavidHuangUCD/DavidHuangUCD.github.io/projects">
       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /David-Data-Scientist/David-Data-Scientist.github.io/wiki">
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /DavidHuangUCD/DavidHuangUCD.github.io/wiki">
       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
 
-  <a href="/David-Data-Scientist/David-Data-Scientist.github.io/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /David-Data-Scientist/David-Data-Scientist.github.io/pulse">
+  <a href="/DavidHuangUCD/DavidHuangUCD.github.io/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /DavidHuangUCD/DavidHuangUCD.github.io/pulse">
     <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
-    <a href="/David-Data-Scientist/David-Data-Scientist.github.io/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations /David-Data-Scientist/David-Data-Scientist.github.io/settings">
+    <a href="/DavidHuangUCD/DavidHuangUCD.github.io/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations /DavidHuangUCD/DavidHuangUCD.github.io/settings">
       <svg aria-hidden="true" class="octicon octicon-gear" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
       Settings
 </a>
@@ -490,7 +490,7 @@
   <div class="repository-content">
 
     
-  <a href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/04d23343d2b0887b581bed2723a5544914efd4a7/_posts/2017-03-21-self-introduction.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/04d23343d2b0887b581bed2723a5544914efd4a7/_posts/2017-03-21-self-introduction.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:2fbaac2e5922a53cdede483c170198a1 -->
 
@@ -534,7 +534,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/develop/_posts/2017-03-21-self-introduction.md"
+               href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/develop/_posts/2017-03-21-self-introduction.md"
                data-name="develop"
                data-skip-pjax="true"
                rel="nofollow">
@@ -544,7 +544,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/gh-pages-2.2.1/_posts/2017-03-21-self-introduction.md"
+               href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/gh-pages-2.2.1/_posts/2017-03-21-self-introduction.md"
                data-name="gh-pages-2.2.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -554,7 +554,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/gh-pages-3.1.6/_posts/2017-03-21-self-introduction.md"
+               href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/gh-pages-3.1.6/_posts/2017-03-21-self-introduction.md"
                data-name="gh-pages-3.1.6"
                data-skip-pjax="true"
                rel="nofollow">
@@ -564,7 +564,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/master/_posts/2017-03-21-self-introduction.md"
+               href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/master/_posts/2017-03-21-self-introduction.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -574,7 +574,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/David-Data-Scientist/David-Data-Scientist.github.io/blob/staticman_48fdf130-0284-11e7-a6a6-c5be922a2114/_posts/2017-03-21-self-introduction.md"
+               href="/DavidHuangUCD/DavidHuangUCD.github.io/blob/staticman_48fdf130-0284-11e7-a6a6-c5be922a2114/_posts/2017-03-21-self-introduction.md"
                data-name="staticman_48fdf130-0284-11e7-a6a6-c5be922a2114"
                data-skip-pjax="true"
                rel="nofollow">
@@ -585,7 +585,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HqJ4ZLeKlcy8tvpnvm3tRUJfZv9pdUPEl5gakuZCCYwQL5xmDQc+3ew3z2SfPMRuixx4ZhlZk1BHu3A88Er05A==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HqJ4ZLeKlcy8tvpnvm3tRUJfZv9pdUPEl5gakuZCCYwQL5xmDQc+3ew3z2SfPMRuixx4ZhlZk1BHu3A88Er05A==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -602,7 +602,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/v2.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/v2.0/_posts/2017-03-21-self-introduction.md"
               data-name="v2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -612,7 +612,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/v1.0.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/v1.0.2/_posts/2017-03-21-self-introduction.md"
               data-name="v1.0.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -622,7 +622,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/v1.0.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/v1.0.1/_posts/2017-03-21-self-introduction.md"
               data-name="v1.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -632,7 +632,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/navigation-links/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/navigation-links/_posts/2017-03-21-self-introduction.md"
               data-name="navigation-links"
               data-skip-pjax="true"
               rel="nofollow">
@@ -642,7 +642,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/navigation-bug/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/navigation-bug/_posts/2017-03-21-self-introduction.md"
               data-name="navigation-bug"
               data-skip-pjax="true"
               rel="nofollow">
@@ -652,7 +652,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.3.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.3.1/_posts/2017-03-21-self-introduction.md"
               data-name="4.3.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -662,7 +662,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.3.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.3.0/_posts/2017-03-21-self-introduction.md"
               data-name="4.3.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -672,7 +672,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.2.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.2.2/_posts/2017-03-21-self-introduction.md"
               data-name="4.2.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -682,7 +682,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.2.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.2.1/_posts/2017-03-21-self-introduction.md"
               data-name="4.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -692,7 +692,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.2.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.2.0/_posts/2017-03-21-self-introduction.md"
               data-name="4.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -702,7 +702,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.1.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.1.1/_posts/2017-03-21-self-introduction.md"
               data-name="4.1.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -712,7 +712,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.1.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.1.0/_posts/2017-03-21-self-introduction.md"
               data-name="4.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -722,7 +722,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.10/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.10/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.10"
               data-skip-pjax="true"
               rel="nofollow">
@@ -732,7 +732,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.9/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.9/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.9"
               data-skip-pjax="true"
               rel="nofollow">
@@ -742,7 +742,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.8/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.8/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.8"
               data-skip-pjax="true"
               rel="nofollow">
@@ -752,7 +752,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.7/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.7/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -762,7 +762,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.6/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.6/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -772,7 +772,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.5/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.5/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -782,7 +782,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/4.0.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/4.0.4/_posts/2017-03-21-self-introduction.md"
               data-name="4.0.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -792,7 +792,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.8/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.8/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.8"
               data-skip-pjax="true"
               rel="nofollow">
@@ -802,7 +802,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.7/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.7/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -812,7 +812,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.6/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.6/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -822,7 +822,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.5/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.5/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -832,7 +832,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.4/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -842,7 +842,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.3/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -852,7 +852,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.2/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -862,7 +862,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.1/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -872,7 +872,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.4.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.4.0/_posts/2017-03-21-self-introduction.md"
               data-name="3.4.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -882,7 +882,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.7/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.7/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -892,7 +892,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.6/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.6/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -902,7 +902,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.5/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.5/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -912,7 +912,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.4/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -922,7 +922,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.3/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -932,7 +932,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.2/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -942,7 +942,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.3.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.3.1/_posts/2017-03-21-self-introduction.md"
               data-name="3.3.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -952,7 +952,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.13/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.13/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.13"
               data-skip-pjax="true"
               rel="nofollow">
@@ -962,7 +962,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.12/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.12/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.12"
               data-skip-pjax="true"
               rel="nofollow">
@@ -972,7 +972,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.11/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.11/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.11"
               data-skip-pjax="true"
               rel="nofollow">
@@ -982,7 +982,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.10/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.10/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.10"
               data-skip-pjax="true"
               rel="nofollow">
@@ -992,7 +992,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.9/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.9/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.9"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1002,7 +1002,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.8/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.8/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.8"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1012,7 +1012,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.7/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.7/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1022,7 +1022,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.6/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.6/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1032,7 +1032,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.5/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.5/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1042,7 +1042,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.4/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1052,7 +1052,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.3/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1062,7 +1062,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.2/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1072,7 +1072,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.1/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1082,7 +1082,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.2.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.2.0/_posts/2017-03-21-self-introduction.md"
               data-name="3.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1092,7 +1092,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.12/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.12/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.12"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1102,7 +1102,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.8/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.8/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.8"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1112,7 +1112,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.7/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.7/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1122,7 +1122,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.6/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.6/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1132,7 +1132,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.5/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.5/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1142,7 +1142,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.4/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1152,7 +1152,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.3/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1162,7 +1162,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.2/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1172,7 +1172,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.1/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1182,7 +1182,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.1.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.1.0/_posts/2017-03-21-self-introduction.md"
               data-name="3.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1192,7 +1192,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.0.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.0.3/_posts/2017-03-21-self-introduction.md"
               data-name="3.0.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1202,7 +1202,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.0.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.0.2/_posts/2017-03-21-self-introduction.md"
               data-name="3.0.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1212,7 +1212,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.0.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.0.1/_posts/2017-03-21-self-introduction.md"
               data-name="3.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1222,7 +1222,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/3.0.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/3.0.0/_posts/2017-03-21-self-introduction.md"
               data-name="3.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1232,7 +1232,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.2.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.2.1/_posts/2017-03-21-self-introduction.md"
               data-name="2.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1242,7 +1242,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.2.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.2.0/_posts/2017-03-21-self-introduction.md"
               data-name="2.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1252,7 +1252,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.1.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.1.3/_posts/2017-03-21-self-introduction.md"
               data-name="2.1.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1262,7 +1262,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.1.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.1.2/_posts/2017-03-21-self-introduction.md"
               data-name="2.1.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1272,7 +1272,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.1.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.1.1/_posts/2017-03-21-self-introduction.md"
               data-name="2.1.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1282,7 +1282,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.1.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.1.0/_posts/2017-03-21-self-introduction.md"
               data-name="2.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1292,7 +1292,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/2.0.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/2.0.0/_posts/2017-03-21-self-introduction.md"
               data-name="2.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1302,7 +1302,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.3.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.3.3/_posts/2017-03-21-self-introduction.md"
               data-name="1.3.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1312,7 +1312,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.3.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.3.1/_posts/2017-03-21-self-introduction.md"
               data-name="1.3.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1322,7 +1322,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.3.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.3.0/_posts/2017-03-21-self-introduction.md"
               data-name="1.3.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1332,7 +1332,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.2.0/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.2.0/_posts/2017-03-21-self-introduction.md"
               data-name="1.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1342,7 +1342,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.1.4/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.1.4/_posts/2017-03-21-self-introduction.md"
               data-name="1.1.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1352,7 +1352,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.1.3/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.1.3/_posts/2017-03-21-self-introduction.md"
               data-name="1.1.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1362,7 +1362,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.1.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.1.2/_posts/2017-03-21-self-introduction.md"
               data-name="1.1.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1372,7 +1372,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.1.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.1.1/_posts/2017-03-21-self-introduction.md"
               data-name="1.1.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1382,7 +1382,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.0.2/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.0.2/_posts/2017-03-21-self-introduction.md"
               data-name="1.0.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1392,7 +1392,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/1.0.1/_posts/2017-03-21-self-introduction.md"
+              href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/1.0.1/_posts/2017-03-21-self-introduction.md"
               data-name="1.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1411,7 +1411,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/David-Data-Scientist/David-Data-Scientist.github.io/find/master"
+      <a href="/DavidHuangUCD/DavidHuangUCD.github.io/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -1420,7 +1420,7 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/David-Data-Scientist/David-Data-Scientist.github.io"><span>David-Data-Scientist.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/David-Data-Scientist/David-Data-Scientist.github.io/tree/master/_posts"><span>_posts</span></a></span><span class="separator">/</span><strong class="final-path">2017-03-21-self-introduction.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/DavidHuangUCD/DavidHuangUCD.github.io"><span>DavidHuangUCD.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/DavidHuangUCD/DavidHuangUCD.github.io/tree/master/_posts"><span>_posts</span></a></span><span class="separator">/</span><strong class="final-path">2017-03-21-self-introduction.md</strong>
     </div>
   </div>
 
@@ -1428,15 +1428,15 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/David-Data-Scientist/David-Data-Scientist.github.io/commit/2bbb4e0a9ce9c370ce7052a16ae273f87c2e565f" data-pjax>
+        <a class="commit-tease-sha" href="/DavidHuangUCD/DavidHuangUCD.github.io/commit/2bbb4e0a9ce9c370ce7052a16ae273f87c2e565f" data-pjax>
           2bbb4e0
         </a>
         <relative-time datetime="2017-03-23T06:55:13Z">Mar 22, 2017</relative-time>
       </span>
       <div>
-        <img alt="@David-Data-Scientist" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/21120969?s=40&amp;v=4" width="20" />
-        <a href="/David-Data-Scientist" class="user-mention" rel="author">David-Data-Scientist</a>
-          <a href="/David-Data-Scientist/David-Data-Scientist.github.io/commit/2bbb4e0a9ce9c370ce7052a16ae273f87c2e565f" class="message" data-pjax="true" title="update website">update website</a>
+        <img alt="@DavidHuangUCD" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/21120969?s=40&amp;v=4" width="20" />
+        <a href="/DavidHuangUCD" class="user-mention" rel="author">DavidHuangUCD</a>
+          <a href="/DavidHuangUCD/DavidHuangUCD.github.io/commit/2bbb4e0a9ce9c370ce7052a16ae273f87c2e565f" class="message" data-pjax="true" title="update website">update website</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -1451,8 +1451,8 @@
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@David-Data-Scientist" height="24" src="https://avatars3.githubusercontent.com/u/21120969?s=48&amp;v=4" width="24" />
-            <a href="/David-Data-Scientist">David-Data-Scientist</a>
+            <img alt="@DavidHuangUCD" height="24" src="https://avatars3.githubusercontent.com/u/21120969?s=48&amp;v=4" width="24" />
+            <a href="/DavidHuangUCD">DavidHuangUCD</a>
           </li>
       </ul>
     </div>
@@ -1464,24 +1464,24 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/David-Data-Scientist/David-Data-Scientist.github.io/raw/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/David-Data-Scientist/David-Data-Scientist.github.io/blame/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/David-Data-Scientist/David-Data-Scientist.github.io/commits/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/DavidHuangUCD/DavidHuangUCD.github.io/raw/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/DavidHuangUCD/DavidHuangUCD.github.io/blame/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/DavidHuangUCD/DavidHuangUCD.github.io/commits/master/_posts/2017-03-21-self-introduction.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/David-Data-Scientist/David-Data-Scientist.github.io?branch=master&amp;filepath=_posts%2F2017-03-21-self-introduction.md"
+           href="github-windows://openRepo/https://github.com/DavidHuangUCD/DavidHuangUCD.github.io?branch=master&amp;filepath=_posts%2F2017-03-21-self-introduction.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/edit/master/_posts/2017-03-21-self-introduction.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ybpggnRH89+GSVeubst0F199/jWpta5LCAbTUwRDbZJidWGX7isGhw6/6lE7gSHmkNmXn9LV90y0q7dRRKcj0A==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/edit/master/_posts/2017-03-21-self-introduction.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ybpggnRH89+GSVeubst0F199/jWpta5LCAbTUwRDbZJidWGX7isGhw6/6lE7gSHmkNmXn9LV90y0q7dRRKcj0A==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/David-Data-Scientist/David-Data-Scientist.github.io/delete/master/_posts/2017-03-21-self-introduction.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wK/QJzyIg4rT/21VCNT5j4fWa3Khinr2vtbKOtv7dpZRyK9RHuTCXiTBqrRMkuQf1bCSk2w/o9E54BUdjLcXOQ==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DavidHuangUCD/DavidHuangUCD.github.io/delete/master/_posts/2017-03-21-self-introduction.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wK/QJzyIg4rT/21VCNT5j4fWa3Khinr2vtbKOtv7dpZRyK9RHuTCXiTBqrRMkuQf1bCSk2w/o9E54BUdjLcXOQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>

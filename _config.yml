@@ -11,9 +11,9 @@ title                    : "Welcome to Data Science World!"
 title_separator          : "-"
 name                     : "David Huang"
 description              : "The best place to know more about me!"
-url                      : "https://David-Data-Scientist.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://DavidHuangUCD.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "David-Data-Scientist/David-Data-Scientist.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "DavidHuangUCD/DavidHuangUCD.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "David-Data-Scientist"
+  github           : "DavidHuangUCD"
   google_plus      :
   keybase          :
   instagram        :
